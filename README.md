@@ -1,5 +1,5 @@
 
-##介绍
+#介绍
 
 [pac](1) 在线修改代理黑白名单，支持http 和socks5代理
    
@@ -44,7 +44,7 @@ PROXY：
 	黑名单：http://<URL>:1901/black/SOCKS5%20127.0.0.1:1080;%20SOCKS%20127.0.0.1:1080
 	全局模式：http://<URL>:1901/all/PROXY%20127.0.0.1:8118 （http全局代理）
 	
-## 感谢
+##感谢
 - https://github.com/txthinking/pac
 
  
